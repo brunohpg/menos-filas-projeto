@@ -14,6 +14,20 @@ As classifiações serão feitas pelos clientes que visitarem os estabelecimento
 - Definir a qualidade do atendimento;
 - Opcionalmente escrever uma observação;
 
+# Tecnologia
+
+## Front-end
+
+- React
+- React Native
+- Javascript
+
+## Back-end
+
+- Java
+- Quarkus
+- PostgreSQL
+
 ## Tarefas Futuras
 
 - Usar estatísticas para informar o usuário quanto tempo ele poderá esperar para atendimento, dado dia e hora;
